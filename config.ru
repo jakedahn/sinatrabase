@@ -1,3 +1,3 @@
-require 'markupisart.rb'
-run MarkupIsArt::App
+require 'appname.rb'
+run AppName::App
  
