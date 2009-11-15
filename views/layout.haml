@@ -11,11 +11,7 @@
     %link{:rel=>"stylesheet", :href=>"/style.css", :media=>"screen"}
     
   %body
-    %div#wrapper
-      %div#header
-        %h1
-          %a{:href => "/"}= "Portfolio"
-        
+    %div#wrapper        
       %div#content
         = @flash
         = yield
