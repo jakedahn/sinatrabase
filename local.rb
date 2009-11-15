@@ -1,3 +1,3 @@
-require 'appname'
+require 'app'
  
 AppName::App.run!

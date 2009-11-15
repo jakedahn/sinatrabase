@@ -1,3 +1,3 @@
-require 'appname.rb'
+require 'app'
+
 run AppName::App
- 
