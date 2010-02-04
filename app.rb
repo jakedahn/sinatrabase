@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-require 'activerecord'
+require 'active_record'
 require 'sass'
 
 load 'config/config.rb'
