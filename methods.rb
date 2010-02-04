@@ -1,11 +1,5 @@
 require 'rubygems'
 require 'haml'
-require 'sinatra'
-
-##
-# Flash Methods
-##
-# 
 
 def get_flash
   flash = request.cookies["flash"]

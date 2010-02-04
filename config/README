@@ -1,4 +1,0 @@
-This is the basic structure I use as a starting point to any of my database-driven sinatra applications. Feel free to use it however you would like. If you have any suggestions for changes please email me: jake@ang.st
-
-If you're not using a database just delete the db directory, Rakefile, and models.rb
-
