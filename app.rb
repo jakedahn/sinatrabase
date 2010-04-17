@@ -8,7 +8,7 @@ load 'models.rb'
 load 'methods.rb'
 
 module AppName
-  class App < Sinatra::Default
+  class App < Sinatra::Base
     set :sessions, true
     set :run, false
 
